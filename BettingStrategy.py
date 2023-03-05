@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@author: faekhoshsepehr
+@author: fk
 """
 
 #%% 
-from UtilZ import *
+from Utils import *
 import matplotlib.pyplot as plt
 #%%
 plt.close('all') 
